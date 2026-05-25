@@ -1,1 +1,1 @@
-# Learning-C
+# Learning Modern C for Embedded Systems
