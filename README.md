@@ -1,1 +1,1 @@
-# Learning Modern C for Embedded Systems
+# Learning Modern C and Data Structures and Algorithms
