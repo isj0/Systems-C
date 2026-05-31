@@ -1,0 +1,13 @@
+# Compiled programs
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# macOS files
+.DS_Store
+
+# VS Code workspace settings
+.vscode/
